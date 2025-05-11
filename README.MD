@@ -23,5 +23,5 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/user-management-system.git
+git clone https://github.com/TheJenniferAponte/user-management-system.git
 cd user-management-system
